@@ -1,0 +1,11 @@
+nome = input ('qual o seu nome?')
+print('ola',nome,'! Prazer em te conhecer')
+print(nome,'que dia vc nasceu?')
+dia = input()
+print('dia',dia,'jura, e qual mes?')
+mes = input()
+print(nome,',se vc me falar o ano te dou um presente')
+ano = input()//jgjgj
+print('vc nasceu dia',dia,'do mes',mes,'e do ano',ano)
+print('e seu presente é um sorriso :)')
+print(':p')
